@@ -1,5 +1,5 @@
-# Documentation Python
-Dossier contenant toute la documentation python, c'est-à-dire :
+# Documentation cx_oracle
+Dossier contenant toute la documentation concernant l'utilisation de cx_oracle, c'est-à-dire :
 * Documentation générale ;
-* Documentation relative au module cx_oracle de conda ;
+* Documentation relative à notre utilisation du module ;
 * Documentation sur les codes python ;
